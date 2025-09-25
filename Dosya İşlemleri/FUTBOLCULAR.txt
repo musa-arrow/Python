@@ -1,0 +1,13 @@
+Mauro Icardi,Galatasaray  
+Edin Dzeko,Fenerbahçe  
+Atiba Hutchinson,Beşiktaş    
+Fred,Fenerbahçe  
+Rachid Ghezzal,Beşiktaş    
+Fernando Muslera,Galatasaray  
+Gedson Fernandes,Beşiktaş  
+Kerem Aktürkoğlu,Galatasaray   
+Simon Kjaer,Fenerbahçe  
+Lucas Torreira,Galatasaray    
+Cenk Tosun,Beşiktaş  
+Dusan Tadic,Fenerbahçe  
+	
